@@ -1,0 +1,26 @@
+Starting PCAP analysis...
+=========================================
+--- Analyzing http_80.pcap ---
+Total TCP Connections:
+0
+
+TCP Retransmissions (Packets marked as retransmissions):
+
+Count of TCP Retransmissions:
+0
+
+Approximate connection establishment info (Count of SYN-ACK packets):
+0
+(Note: Precise RTT calculation is complex in command line; Wireshark GUI is recommended for detailed RTT analysis)
+
+--- Analyzing dns.pcap ---
+Total DNS Queries:
+0
+
+Unique Domains Queried:
+
+Sample DNS Queries and Responses (Frame#, Query Name, Answers):
+(Showing first 20 entries)
+
+=========================================
+PCAP analysis complete. Results saved to: txt.analysis_wiresha

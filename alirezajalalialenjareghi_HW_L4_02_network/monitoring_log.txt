@@ -1,0 +1,56 @@
+2026-06-01 20:57:01 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:01 - --- Bandwidth Usage ---
+2026-06-01 20:57:01 - Download: 0 B/s
+2026-06-01 20:57:01 - Upload:   0 B/s
+2026-06-01 20:57:01 - Active connections: 5
+2026-06-01 20:57:01 - --- Top 5 IP addresses ---
+2026-06-01 20:57:06 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:06 - --- Bandwidth Usage ---
+2026-06-01 20:57:06 - Download: 0 B/s
+2026-06-01 20:57:06 - Upload:   0 B/s
+2026-06-01 20:57:06 - Active connections: 5
+2026-06-01 20:57:06 - --- Top 5 IP addresses ---
+2026-06-01 20:57:11 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:12 - --- Bandwidth Usage ---
+2026-06-01 20:57:12 - Download: 0 B/s
+2026-06-01 20:57:12 - Upload:   0 B/s
+2026-06-01 20:57:12 - Active connections: 5
+2026-06-01 20:57:12 - --- Top 5 IP addresses ---
+2026-06-01 20:57:17 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:17 - --- Bandwidth Usage ---
+2026-06-01 20:57:17 - Download: 0 B/s
+2026-06-01 20:57:17 - Upload:   0 B/s
+2026-06-01 20:57:17 - Active connections: 5
+2026-06-01 20:57:17 - --- Top 5 IP addresses ---
+2026-06-01 20:57:22 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:22 - --- Bandwidth Usage ---
+2026-06-01 20:57:22 - Download: 0 B/s
+2026-06-01 20:57:22 - Upload:   0 B/s
+2026-06-01 20:57:22 - Active connections: 5
+2026-06-01 20:57:22 - --- Top 5 IP addresses ---
+2026-06-01 20:57:27 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:27 - --- Bandwidth Usage ---
+2026-06-01 20:57:27 - Download: 0 B/s
+2026-06-01 20:57:27 - Upload:   0 B/s
+2026-06-01 20:57:28 - Active connections: 5
+2026-06-01 20:57:28 - --- Top 5 IP addresses ---
+2026-06-01 20:57:33 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:33 - --- Bandwidth Usage ---
+2026-06-01 20:57:33 - Download: 0 B/s
+2026-06-01 20:57:33 - Upload:   0 B/s
+2026-06-01 20:57:33 - Active connections: 5
+2026-06-01 20:57:33 - --- Top 5 IP addresses ---
+2026-06-01 20:57:38 - --- Network Interface Statistics ---
+Interface:            RX:                 TX:                 Errors(RX/TX): /          Dropped(RX/TX): /         
+2026-06-01 20:57:38 - --- Bandwidth Usage ---
+2026-06-01 20:57:38 - Download: 0 B/s
+2026-06-01 20:57:38 - Upload:   0 B/s
+2026-06-01 20:57:38 - Active connections: 5
+2026-06-01 20:57:38 - --- Top 5 IP addresses ---
